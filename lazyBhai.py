@@ -5,7 +5,6 @@ from contextlib import (
     closing,
     suppress
 )
-from Rose.utils.lang import *
 from uvloop import install
 from pyrogram import ( 
     filters, 
